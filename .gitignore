@@ -3,3 +3,6 @@ venv*
 .venv
 .venv*
 __pycache__
+
+person_output.csv
+sales_exported.json

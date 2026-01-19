@@ -1,6 +1,6 @@
 # Data chrunching with Pandas
 
-The python notebook are created with [Marimo](https://marimo.io/). 
+The python notebook are created with Jupyter
 
 ## Run the notebook
 
@@ -10,16 +10,8 @@ The python notebook are created with [Marimo](https://marimo.io/).
 pip install -r requirements.txt
 ```
 
-2. run the python notebook
+2. run the jupyter lab
 
 ```bash
-marimo edit <target_file>.py
-```
-
-Follow the instruction on console
-
-## Create a new notebook
-
-```bash
-marimo new
+jupyter lab
 ```
